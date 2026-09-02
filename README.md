@@ -1,6 +1,8 @@
 # Card Number Validation API
 
-🟢 **Live API Endpoint:** `https://cardvalidation-66pc.onrender.com/api/validate`
+## Note: Hosted on Render's free tier. If the service has been idle, please allow up to 30 seconds for the initial request to spin up the container.
+
+🟢 **Live API Endpoint:** [https://cardvalidation-66pc.onrender.com/api/validate](https://cardvalidation-66pc.onrender.com/api/validate)
 
 A lightweight REST API built with Node.js, Express, and TypeScript to validate credit card numbers using the Luhn Algorithm.
 
