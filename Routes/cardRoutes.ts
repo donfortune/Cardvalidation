@@ -4,6 +4,6 @@ import { validateCard } from '../Controllers/cardControllers';
 
 const router = Router();
 
-router.post('/validate-card', validateCard);
+router.post('/validate', validateCard);
 
 export default router;
